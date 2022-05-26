@@ -39,10 +39,12 @@ public class Invoice {
     }
 
     public String getInvoiceDate() {
+
         return invoiceDate;
     }
 
     public void setInvoiceDate(String invoiceDate) {
+      
         this.invoiceDate = invoiceDate;
     }
 
